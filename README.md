@@ -49,7 +49,7 @@ Linux | Termux | CLI Tools
 
 ## 🌐 Ecosistema
 
-- 🌍 APIs: https://chanzconsultas.onrender.com  
+- 🌍 APIs: https://chc-panel.base44.app 
 - 🤖 Bots: Discord + integrações  
 - 🔧 Projetos: em constante evolução  
 
@@ -82,8 +82,11 @@ Linux | Termux | CLI Tools
 
 ## ☠️ Contato
 
-- Discord: (seu user)  
-- GitHub: https://github.com/SEUUSERNAME  
+- Discord: (derxan.kvs)  
+- GitHub: https://github.com/kaioxcode
+- Email: chanzkaio.dev@gmail.com
+- Instagram: @kaio.kvs
+- Tiktok: @chanzantgov
 
 ---
 
